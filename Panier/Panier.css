@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+p {
+    font-weight: bold;
+}
+
+button {
+    margin: 3px;
+    padding: 2px;
+}
+
+
+#Quantite {
+    width: 25px;
+}
+
+#heart {
+    border-style: none;
+    background-color: white;
+    
+}
